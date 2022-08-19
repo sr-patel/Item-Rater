@@ -1,4 +1,4 @@
-# item-rater
+# Item Rater
 * Takes input using tkinter for an external user dual input GUI <br />
 * Evaulates video game items using CV formula <br />
 * Ranks individually on a 0* to 5* scale <br />
