@@ -90,7 +90,7 @@ for i in range(0,5):
     cvCheck()
 
 totalChar = sum(cvList)
-totalChar = str(totalChar)
+totalChar = str(round(totalChar,2))
 
 print("Total CV for", character + "'s", setType, "set is", totalChar + ".")
 
